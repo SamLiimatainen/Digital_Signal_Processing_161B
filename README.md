@@ -1,0 +1,2 @@
+# Digital_Signal_Processing_161B
+This repository holds three digital signal processing labs that i completed at UCSD during the Winter 2022 quarter. The labs incorporate Matlab DSP and C-Code DSP. The C-Code uses the libsndfile library to process signals. The details of the libsndfile library are documented in the LAB0 Prompt. There are also instructions posted for using libsndfile, titled "Using Libsndfile Instructions".
